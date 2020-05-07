@@ -1,0 +1,2 @@
+- [ ] Catalan conjecture
+- [ ] 26 is the only integer such that $x^2=n=y^3$ where $n=26$
