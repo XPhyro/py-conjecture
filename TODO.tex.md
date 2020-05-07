@@ -1,2 +1,2 @@
-- [ ] Catalan conjecture
-- [ ] 26 is the only positive integer such that $x^2+1=n=y^3-1$ where $n=26$ and $x$ and $y$ are positive integers.
+- Catalan conjecture
+- 26 is the only positive integer such that $x^2+1=n=y^3-1$ where $n=26$ and $x$ and $y$ are positive integers.
