@@ -1,0 +1,2 @@
+- [ ] Catalan conjecture
+- [ ] 26 is the only integer such that <img src="/tex/09c73f7dab12fb492c28791f180f7463.svg?invert_in_darkmode&sanitize=true" align=middle width=85.67333774999999pt height=26.76175259999998pt/> where <img src="/tex/4648f00a4b416b27f88ac6491ad44457.svg?invert_in_darkmode&sanitize=true" align=middle width=48.222926399999984pt height=21.18721440000001pt/>
